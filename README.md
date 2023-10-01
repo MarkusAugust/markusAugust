@@ -1,7 +1,7 @@
 Hello 👋
 
 I am a web developer doing the wage slave thing as well as various side projects.  
-Hit me up on twitter/X if you want to talk about stuff.  
+Hit me up [on twitter/X](https://twitter.com/sobergklyver) if you want to talk about stuff.  
 
 All my code is on proprietary and private projects.  
 Nothing to see here on Github.  
